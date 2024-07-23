@@ -106,6 +106,7 @@ void harshit()
             cout << st.query(l , r) << endl;
         }
     }
+    
 }
  
 signed main()
